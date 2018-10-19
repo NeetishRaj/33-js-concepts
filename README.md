@@ -485,6 +485,8 @@ This repository was created with the intention of helping developers master thei
  * 📜 [Copying Objects in JavaScript ― Orinami Olatunji](https://scotch.io/bar-talk/copying-objects-in-javascript)
  * 📜 [Object.assign() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
  * 📜 [JavaScript: Object.assign() — Thiago S. Adriano](https://codeburst.io/javascript-object-assign-bc9696dcbb6e)
+ * 📜 [When to use Object.assign() — Neetish Raj](https://medium.com/@neetishop/why-use-object-assign-582dcdcab6f6)
+ 
  
  ### Videos
 
